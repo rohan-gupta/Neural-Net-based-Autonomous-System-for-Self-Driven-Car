@@ -1,5 +1,9 @@
 # Neural-Net-based-Autonomous-System-for-Self-Driven-Car
 
+![Alt text](https://github.com/rohan-gupta/Neural-Net-based-Autonomous-System-for-Self-Driven-Car/blob/master/banner.png)
+
+Screenshot from trained model visualiser - black dot representing the predicted steer angle / white dot representing the actual steer angle
+
 ## Objective
 
 To train a Convolutional Neural Network (CNN) for enabling a self-driving car. 
@@ -15,3 +19,4 @@ We are using Adam optimizer to minimize loss and the learning rate is set at 0.0
 ## Demonstration Video
 
 Link - https://drive.google.com/file/d/1yj4Ldpktk51XuPMde0u8QrYMVa6qOMOO/view?usp=share_link
+
