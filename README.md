@@ -21,6 +21,9 @@ We are using Adam optimizer to minimize loss and the learning rate is set at 0.0
 Link - https://drive.google.com/file/d/1yj4Ldpktk51XuPMde0u8QrYMVa6qOMOO/view?usp=share_link
 
 ## Instructions
+
+run the following commands in terminal
+
 - `pip install -r requirements.txt`
 - `cd src`
 - `python main.py` or `python visualize.py`
